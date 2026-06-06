@@ -18,7 +18,21 @@ hawks_process_pprb.R: R script to fit the model using PP-RB.
 
 hawks_process_ppprb.R: R script to fit the model using PPP-RB.
 
-## 
+## sss
+
+sss_mh.R: R script to fit the model using MH algorithm.
+
+sss_pprb_R: R script to fit the model using PP-RB.
+
+sss_ppprb_R: R script to fit the model using PPP-RB.
+
+Rcpp.conditional.gp.zip: Download this and install the package from source in R:
+
+install.packages(
+  "Rcpp.conditional.gp.zip",
+  repos = NULL,
+  type = "source"
+)
 
 # Reference
 [1] United States Geological Survey (2026). USGS earthquake catalog. https://earthquake.usgs.gov/earthquakes/search/.
