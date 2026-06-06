@@ -5,6 +5,7 @@ While Bayesian inference has become increasingly popular with advances in comput
 
 # Data
 world_series_earthquake_2_2.RData: The earthquake dataset are obtined from United States Geological Survey (2026) [1].
+
 sss_7.RData: SSS dataset are obtained from ESA Sea Surface Salinity Climate Change Initiative [2].
 
 
@@ -12,7 +13,9 @@ sss_7.RData: SSS dataset are obtained from ESA Sea Surface Salinity Climate Chan
 
 ## earthquake
 hawks_process_mh.R: R script to fit the model using MH algorithm.
+
 hawks_process_pprb.R: R script to fit the model using PP-RB.
+
 hawks_process_ppprb.R: R script to fit the model using PPP-RB.
 
 ## 
