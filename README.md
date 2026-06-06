@@ -9,9 +9,6 @@ sss_7.RData: SSS dataset are obtained from ESA Sea Surface Salinity Climate Chan
 
 
 # Script
-## Simulation_study
-- lang_model_5_3_check_multiply.stan: Stan code used to fit the model.
-- stan_bts_public.R: R code for the analysis.
 
 ## Data_analysis
 - lang_model_3.stan: Stan code used to fit the model.
