@@ -10,9 +10,12 @@ sss_7.RData: SSS dataset are obtained from ESA Sea Surface Salinity Climate Chan
 
 # Script
 
-## Data_analysis
-- lang_model_3.stan: Stan code used to fit the model.
-- stan_sea_grass_public.R: R code for the analysis.
+## earthquake
+hawks_process_mh.R: R script to fit the model using MH algorithm.
+hawks_process_pprb.R: R script to fit the model using PP-RB.
+hawks_process_ppprb.R: R script to fit the model using PPP-RB.
+
+## 
 
 # Reference
 [1] United States Geological Survey (2026). USGS earthquake catalog. https://earthquake.usgs.gov/earthquakes/search/.
